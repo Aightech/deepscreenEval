@@ -1,8 +1,8 @@
 [submodule "lib/drvAMC"]
 	path = lib/drvAMC
-	url = git@github.com:Aightech/drvAMC
+	url = ../drvAMC
 	branch = main
 [submodule "lib/ni-daqmx"]
 	path = lib/ni-daqmx
-	url = git@github.com:Aightech/ni-daqmx
+	url = ../ni-daqmx
 	branch = main
